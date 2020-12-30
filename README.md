@@ -2,11 +2,11 @@
 
 This repository contains projects made by me while learning mobile dev using `react-native` for now.
 
-| Project              |                               Description                                |                                                                           Takeaway                                                                            |          Source           |
-| -------------------- | :----------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------: |
-| Direct-Whatsapp      |             Send messages on WhatsApp without saving numbers             |                                                       Used basic react-native UI components and Linking                                                       | [Here](/direct-whatsapp)  |
-| Contacts-App         | A contacts app to find contact information saved numbers in your device. |                                                   Tried to get user permissions and handle states of react                                                    | [Here](/contacts-manager) |
-| Image classification |       An app which takes an image from user and output what it is.       | Tried using ML in an app. Used `tensorflow.js` to run pre-trained data. Simply taking an Image and converting it into the tensor and passing it to the model. |         [Here]()          |
+| Project              |                               Description                                |                                                                           Takeaway                                                                            |                                          Source                                           |
+| -------------------- | :----------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------: |
+| Direct-Whatsapp      |             Send messages on WhatsApp without saving numbers             |                                                       Used basic react-native UI components and Linking                                                       |   [Here](https://github.com/AmanRaj1608/react-native-apps/tree/master/contacts-manager)   |
+| Contacts-App         | A contacts app to find contact information saved numbers in your device. |                                                   Tried to get user permissions and handle states of react                                                    |   [Here](https://github.com/AmanRaj1608/react-native-apps/tree/master/direct-whatsapp)    |
+| Image classification |       An app which takes an image from user and output what it is.       | Tried using ML in an app. Used `tensorflow.js` to run pre-trained data. Simply taking an Image and converting it into the tensor and passing it to the model. | [Here](https://github.com/AmanRaj1608/react-native-apps/tree/master/image-classification) |
 
 #### Todo
 
