@@ -1,27 +1,30 @@
 {
   "expo": {
-    "name": "Direct whatsapp",
-    "slug": "direct-whatsapp",
-    "version": "1.1.0",
+    "name": "Image Classifier",
+    "slug": "image-classification",
+    "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/direct.png",
+    "icon": "./assets/icon.png",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#0e49b5"
+      "backgroundColor": "#00303f"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
     },
     "assetBundlePatterns": ["**/*"],
+    "packagerOpts": {
+      "sourceExts": ["js", "ts", "tsx"]
+    },
     "ios": {
       "supportsTablet": true
     },
     "android": {
-      "package": "com.amanraj1608.directWhatsapp",
+      "package": "com.amanraj1608.imageClassification",
       "adaptiveIcon": {
-        "foregroundImage": "./assets/direct.png",
-        "backgroundColor": "#0e49b5"
+        "foregroundImage": "./assets/icon.png",
+        "backgroundColor": "#FFFFFF"
       }
     },
     "web": {
